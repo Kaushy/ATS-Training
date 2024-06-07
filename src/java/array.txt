@@ -1,4 +1,4 @@
-class Array {
+/*class Array {
     public static void main(String[] args) {   
 
         int[] numbers = new int[]{20, 30, 25, 35, -16, 60, -100};
@@ -10,4 +10,19 @@ class Array {
         double average = sum / numbers.length;
         System.out.println(average); 
     }
-}
+}*/
+
+/*package JAVA;
+
+public class Demo {
+    public static void main(String[] args) {  
+    	int[] arr= {10,1323,45,332,23};
+    int max = arr[0];
+    for(int i=1;i<arr.length;i++) {
+    	if(arr[i]>max)
+    		max = arr[i];
+    }
+    System.out.println(max);
+    
+    }
+    }*/
