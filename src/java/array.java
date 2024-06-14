@@ -61,7 +61,7 @@ class array{
 }
 }
  */
-import java.util.Scanner;
+/*import java.util.Scanner;
 class array{
 	public static void main(String[]args) {
 	Scanner sc=new Scanner(System.in);
@@ -89,4 +89,4 @@ class array{
 	System.out.println();
 }
 	}
-}
+}*/
